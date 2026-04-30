@@ -57,6 +57,7 @@ Because 1 is not a prime number and 2 is the smallest prime number.
 Compile and run the program:
 
 javac NextPrime.java
+
 java NextPrime
 
 ## What I practiced
